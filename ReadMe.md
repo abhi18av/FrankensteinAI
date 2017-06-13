@@ -57,9 +57,6 @@ This repo contains all the work that I've done and study that I plan to do, to g
 - [ ] Genomic Data Science and Clustering ( BioInformatics 6)
 - [ ] BioInformatics Capstone : Big Data in Biology
 - [ ] BioInformatics : Introduction and Methods
-- [ ] Google Cloud Platform Fundamentals : Core Infrastructure
-- [ ] Computing, Storage and Security with Google Cloud Platform
-- [ ] Configuration Management on Google Cloud Platform
 - [ ] Designing Highly Scalable Web Apps on Google Cloud Platform
 - [ ] Introduction to Big Data
 - [ ] Big Data Modeling and Management Systems
@@ -72,10 +69,6 @@ This repo contains all the work that I've done and study that I plan to do, to g
 - [ ] An Intuitive Introduction to Probability
 - [ ] Mathematical Biostatitics, Part-1
 - [ ] Mathematical Biostatistics, Part-2
-- [ ] A Crash Course in Data Science
-- [ ] Building a Data Science Team
-- [ ] Managing Data Analysis
-- [ ] Data Science in Real Life
 - [ ] Biology Meets Programming
 - [ ] Introduction to Systemic Review and Meta-Analysis
 - [ ] Genomics : Decoding hte Universal Language of Life
@@ -85,7 +78,6 @@ This repo contains all the work that I've done and study that I plan to do, to g
 - [ ] Command Line Tools for Genomic Data Science
 - [ ] Bioconductor for Genomic Data Science
 - [ ] Satistics for Genomic Data Science
-- [ ] Introduction to Genomic Techonlogies
 - [ ] Genomic Data Science Capstone
 - [ ] Tinkering with Fundametals 
 - [ ] Google Cloud Platform : Big Data and Machine Learning Fundamentals
@@ -114,12 +106,29 @@ This repo contains all the work that I've done and study that I plan to do, to g
 - [ ] Advanced Neurobiology, Part-1
 - [ ] Advanced Neurobiology, Part-2
 - [ ] Introduction to Genetics and Evolution
+- [ ] BioInformatic Methods, Part-1
+- [ ] BioInformatic Methods, Part-2
+- [ ] Classical Papers in Molecular Genetics
  
 - [x] Getting and Cleaning Data
 - [x] Exploratory Data Analysis
-- [ ] Practical Machine Learning
-- [ ] The Data Scientist's Toolbox
-- [ ]  
+- [x] Practical Machine Learning
+- [x] The Data Scientist's Toolbox
+- [x] Big Data Analysis with Scala and Spark
+- [x] Google Cloud Platform Fundamentals : Core Infrastructure
+- [x] Computing, Storage and Security with Google Cloud Platform
+- [x] Configuration Management on Google Cloud Platform
+- [x] Using Databases with Python
+- [x] Python Data Structures
+- [x] A Crash Course in Data Science
+- [x] Data Science Math Skills
+- [x] R Programming
+- [x] Building a Data Science Team
+- [x] Managing Data Analysis
+- [x] Data Science in Real Life
+- [x] Understanding China - A Data Analytic Approach, Part-1
+- [x] Understanding China - A Data Analytic Approach, Part-2
+- [x] Introduction to Genomic Technologies
 
 #### Later, perhaps
 - EdX
