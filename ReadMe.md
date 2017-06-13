@@ -25,6 +25,26 @@ This repo contains all the work that I've done and study that I plan to do, to g
 
 ## Online Courses
 #### Coursera
+- [x] Getting and Cleaning Data
+- [x] Exploratory Data Analysis
+- [x] Practical Machine Learning
+- [x] The Data Scientist's Toolbox
+- [x] Big Data Analysis with Scala and Spark
+- [x] Google Cloud Platform Fundamentals : Core Infrastructure
+- [x] Computing, Storage and Security with Google Cloud Platform
+- [x] Configuration Management on Google Cloud Platform
+- [x] Using Databases with Python
+- [x] Python Data Structures
+- [x] A Crash Course in Data Science
+- [x] Data Science Math Skills
+- [x] R Programming
+- [x] Building a Data Science Team
+- [x] Managing Data Analysis
+- [x] Data Science in Real Life
+- [x] Understanding China - A Data Analytic Approach, Part-1
+- [x] Understanding China - A Data Analytic Approach, Part-2
+- [x] Introduction to Genomic Technologies
+
 - [ ] Reproducible Research
 - [ ] Statistical Inference
 - [ ] Regression Models
@@ -110,26 +130,6 @@ This repo contains all the work that I've done and study that I plan to do, to g
 - [ ] BioInformatic Methods, Part-2
 - [ ] Classical Papers in Molecular Genetics
  
-- [x] Getting and Cleaning Data
-- [x] Exploratory Data Analysis
-- [x] Practical Machine Learning
-- [x] The Data Scientist's Toolbox
-- [x] Big Data Analysis with Scala and Spark
-- [x] Google Cloud Platform Fundamentals : Core Infrastructure
-- [x] Computing, Storage and Security with Google Cloud Platform
-- [x] Configuration Management on Google Cloud Platform
-- [x] Using Databases with Python
-- [x] Python Data Structures
-- [x] A Crash Course in Data Science
-- [x] Data Science Math Skills
-- [x] R Programming
-- [x] Building a Data Science Team
-- [x] Managing Data Analysis
-- [x] Data Science in Real Life
-- [x] Understanding China - A Data Analytic Approach, Part-1
-- [x] Understanding China - A Data Analytic Approach, Part-2
-- [x] Introduction to Genomic Technologies
-
 #### Later, perhaps
 - EdX
 - XueTang
