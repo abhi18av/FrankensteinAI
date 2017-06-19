@@ -44,13 +44,13 @@ This repo contains all the work that I've done and study that I plan to do, to g
 - [x] Understanding China - A Data Analytic Approach, Part-1
 - [x] Understanding China - A Data Analytic Approach, Part-2
 - [x] Introduction to Genomic Technologies
+- [x] Reproducible Research
+- [x] Statistical Inference
+- [x] Advanced R Programming
 
-- [ ] Reproducible Research
-- [ ] Statistical Inference
 - [ ] Regression Models
 - [ ] Developing Data Products
 - [ ] The R Programming Environment
-- [ ] Advanced R Programming
 - [ ] Building R Packages
 - [ ] Building Data Visualization Tools
 - [ ] Basic Statistics
