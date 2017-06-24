@@ -47,8 +47,8 @@ This repo contains all the work that I've done and study that I plan to do, to g
 - [x] Reproducible Research
 - [x] Statistical Inference
 - [x] Advanced R Programming
+- [x] Regression Models
 
-- [ ] Regression Models
 - [ ] Developing Data Products
 - [ ] The R Programming Environment
 - [ ] Building R Packages
