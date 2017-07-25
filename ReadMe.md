@@ -11,6 +11,7 @@ This repo contains all the work that I've done and study that I plan to do, to g
 
 ## Programming Languages
 - Python
+- Hy
 - Julia
 - R
 - Scala
