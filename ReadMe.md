@@ -151,3 +151,8 @@ Of the various courses, I've completed in these online platforms, I'd much rathe
  I, of course, shall peek solutions to various ways of doing things after an honest attempts. I realize that this project will take a lot of time so I'm in for the long run ;P
 
 
+https://www.codingame.com/ide/puzzle/onboarding
+https://coderbyte.com/
+http://theaigames.com/
+https://halite.io/
+
